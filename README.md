@@ -1,3 +1,5 @@
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/TheoKanning/openai-java)
+
 ![version](https://img.shields.io/bintray/v/theokanning/openai-gpt3-java/api?color=00bb00&style=flat-square)
 # OpenAI-Java
 Java libraries for using OpenAI's GPT-3 api.
